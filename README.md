@@ -14,7 +14,7 @@
 - 🔸**Excepciones**, Genéricos, Recursividad y Anotaciones.
 - 🔸**Clase System** (es opcional).
 
-#### **📐 Patrones de Diseño (Añadido después de Java Core)**
+# **📐 Patrones de Diseño**
 - 🔸**Introducción**: Qué son y cómo usarlos.
 - 🔸**Patrones Creacionales y Estructurales**.
 - 🔸**Aplicación práctica con proyectos**.
