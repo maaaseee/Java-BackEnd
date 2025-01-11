@@ -1,0 +1,207 @@
+{
+  "main": {
+    "id": "b4b8b5892f50ba9b",
+    "type": "split",
+    "children": [
+      {
+        "id": "4f735f65f17d4b76",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b068c90243c79c90",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hoja de ruta.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Hoja de ruta"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "40a370046b3a4781",
+    "type": "split",
+    "children": [
+      {
+        "id": "83729e52ec067f6b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "be8d22ffeeb69aeb",
+            "type": "leaf",
+            "state": {
+              "type": "mindmap",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "b67e5bd325725ea6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "a31f17072024e9ae",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "673c46da73f09c09",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 366.5
+  },
+  "right": {
+    "id": "7cbf6a2d30f2c0b1",
+    "type": "split",
+    "children": [
+      {
+        "id": "374c9b3d8b498fa9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "96eca019416ef71f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Hoja de ruta.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Hoja de ruta"
+            }
+          },
+          {
+            "id": "65b7d955f6f66b83",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Hoja de ruta.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Hoja de ruta"
+            }
+          },
+          {
+            "id": "c751327b65c0140f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "053d98fbc551f1f8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Hoja de ruta.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Hoja de ruta"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "b068c90243c79c90",
+  "lastOpenFiles": [
+    "README.md",
+    "Java-BackEnd/README.md",
+    "Java-BackEnd",
+    "Java Core/Java 8+/Optional.md",
+    "Java Core/Java 8+/Formater.md",
+    "Hoja de ruta.md",
+    "Java Core/Java 8+/Wrappers.md",
+    "Java Core/Java 8+/Stream.md",
+    "Java Core/Java 8+/Java.time.md",
+    "Resources/1734895738809.gif",
+    "Java Core/Java 8+/3. Optional/Ejemplo 4.md",
+    "Java Core/Java 8+/3. Optional/Ejemplo 3.md",
+    "Resources/1735177749264.gif",
+    "Java Core/Java 8+/2. Stream/Ejemplo 5.md",
+    "Java Core/Java 8+/2. Stream/Ejemplo 3.md",
+    "Java Core/Java 8+/2. Stream/Ejemplo 4.md",
+    "Java Core/Java 8+/2. Stream/Ejemplo 6.md",
+    "Java Core/Java 8+/2. Stream/Ejemplo 1.md",
+    "Java Core/Java 8+/2. Stream/Ejemplo 2.md",
+    "Java Core/Java 8+/3. Optional/Ejemplo 1.md",
+    "Java Core/Java 8+/3. Optional/Ejemplo 2.md",
+    "Java Core/Java 8+/3. Optional",
+    "documentación de Java.md",
+    "Untitled.md",
+    "Java Core/Java 8+/2. Stream",
+    "Java Core/Java 8+",
+    "Java Core",
+    "Resources"
+  ]
+}
