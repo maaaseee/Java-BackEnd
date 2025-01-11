@@ -7,9 +7,9 @@
 </p>
 
 # 🧩 **Java Core**  
-- 🔸**Fundamentos**: tipos de datos, variables, [[Wrappers]], operadores, estructuras de control, arreglos y cadenas/[[Formater]].  
+- 🔸**Fundamentos**: tipos de datos, variables, Wrappers, operadores, estructuras de control, arreglos y cadenas/Formater.  
 - 🔸**POO**: herencia, polimorfismo, encapsulación y abstracción.  
-- 🔸**Java 8+**: Lambda, [[Stream]], [[Optional]], fecha y hora ([[Java.time]]).  
+- 🔸**Java 8+**: Lambda, Stream, Optional, fecha y hora (Java.time).  
 - 🔸**Colecciones**: ArrayList, LinkedList, HashMap, TreeMap. 
 - 🔸**Excepciones**, Genéricos, Recursividad y Anotaciones.
 - 🔸**Clase System** (es opcional).
